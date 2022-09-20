@@ -1,5 +1,5 @@
-# p-workshops-2021
-P-ai's AI/ML workshops, revamped for the 2021-2022 school year
+# p-workshops-2022
+P-ai's AI/ML workshops, revamped for the 2022-2023 school year
 
 **Dates and times TBD**
 
@@ -11,11 +11,7 @@ P-ai's AI/ML workshops, revamped for the 2021-2022 school year
   - GI vs. AI vs. ML vs. DL
   - Linear regression as a machine learning algorithm
   - What it means to train a machine learning model
-- Coding environments
-  - Python libraries
-  - Package management
-  - Virtual environments
-- Python crash course
+- Bias in ML
 
 ### Workshop session 2
 - Domains of machine learning
