@@ -1,25 +1,29 @@
 # p-workshops-2022
-P-ai's AI/ML workshops, revamped for the 2022-2023 school year
+P-ai's AI/ML workshops, revamped for the 2022-2023 school year!
 
-**Dates and times TBD**
+All workshop recordings can be found in this Google Drive Folder. 
 
-### Workshop session 1
+### Python Workshop: Monday, October 3rd 4:30pm (Edmunds 101)
+- Python basics
 - Introductions & setup
   - Git / GitHub
   - Jupyter Notebook / Google Colab
+
+### Workshop Session 1: Wednesday, October 5th 4:30pm (Edmunds 114)
+- [Link to Recording](https://www.youtube.com/watch?v=ELKSiuv_g4w)
 - Demystifying Machine Learning
   - GI vs. AI vs. ML vs. DL
   - Linear regression as a machine learning algorithm
   - What it means to train a machine learning model
 - Bias in ML
 
-### Workshop session 2
+### Workshop Session 2: Wednesday, October 12th 4:30pm (Edmunds 114)
 - Domains of machine learning
 - Supervised learning in more detail
 - Linear regression and Logistic regression
 - Case study with house prices
 
-### Workshop session 3
+### Workshop session 3: Wednesday, October 26th 4:30pm (Edmunds 114)
 - Gradient descent
   - What is gradient descent?
   - How do machines use GD to learn?
@@ -32,7 +36,7 @@ P-ai's AI/ML workshops, revamped for the 2022-2023 school year
 - Case study applying the skills we learned
 - How to use git & GitHub
 
-### Workshop session 4
+### Workshop Session 4: Wednesday, November 2nd 4:30pm (Edmunds 114)
 - Deep learning
   - Intuition behind neural nets
   - How to build and train a neural net with Tensorflow and Keras
