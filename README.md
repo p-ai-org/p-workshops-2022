@@ -1,7 +1,7 @@
 # p-workshops-2022
 P-ai's AI/ML workshops, revamped for the 2022-2023 school year!
 
-All workshop recordings can be found in this Google Drive Folder. 
+Previous years' workshop recordings can be found in [this Google Drive Folder](https://drive.google.com/drive/folders/1h9Z6qgxPcJkn5qNge1RQpb2b6jHhuRdb?usp=sharing). 
 
 ### Python Workshop: Monday, October 3rd 4:30pm (Edmunds 101)
 - Python basics
