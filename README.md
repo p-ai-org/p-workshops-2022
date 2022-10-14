@@ -17,13 +17,20 @@ Previous years' workshop recordings can be found in [this Google Drive Folder](h
   - What it means to train a machine learning model
 - Bias in ML
 
-### Workshop Session 2: Wednesday, October 12th 4:30pm (Edmunds 114)
+### Workshop Session 2A: Wednesday, October 12th 4:30pm (Edmunds 114)
+- [Link to Recording](https://youtu.be/QfSCoJ4UQaw)
 - Domains of machine learning
 - Supervised learning in more detail
-- Linear regression and Logistic regression
+- Linear regression
 - Case study with house prices
 
+### Workshop Session 2B: Wednesday, October 19th 4:30pm (Edmunds 114)
+- Link to Recording
+- Logistic regression
+- Case study
+
 ### Workshop session 3: Wednesday, October 26th 4:30pm (Edmunds 114)
+- Link to Recording
 - Gradient descent
   - What is gradient descent?
   - How do machines use GD to learn?
@@ -37,6 +44,7 @@ Previous years' workshop recordings can be found in [this Google Drive Folder](h
 - How to use git & GitHub
 
 ### Workshop Session 4: Wednesday, November 2nd 4:30pm (Edmunds 114)
+- Link to Recording
 - Deep learning
   - Intuition behind neural nets
   - How to build and train a neural net with Tensorflow and Keras
