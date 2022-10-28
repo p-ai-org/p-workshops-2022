@@ -30,7 +30,7 @@ Previous years' workshop recordings can be found in [this Google Drive Folder](h
 - Case study
 
 ### Workshop session 3: Wednesday, October 26th 4:30pm (Edmunds 114)
-- Link to Recording
+- [Link to Recording](https://youtu.be/hOXNqimXiK0)
 - Gradient descent
   - What is gradient descent?
   - How do machines use GD to learn?
