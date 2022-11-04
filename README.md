@@ -43,10 +43,7 @@ Previous years' workshop recordings can be found in [this Google Drive Folder](h
 - Case study applying the skills we learned
 - How to use git & GitHub
 
-### Workshop Session 4: Wednesday, November 2nd 4:30pm (Edmunds 114)
-- Link to Recording
+### Workshop Session 4a: Wednesday, November 2nd 4:30pm (Edmunds 114)
+- [Link to Recording](https://www.youtube.com/watch?v=oXvbGY2Wy00)
 - Deep learning
   - Intuition behind neural nets
-  - How to build and train a neural net with Tensorflow and Keras
-  - Types of neural nets
-- Case study applying deep learning
