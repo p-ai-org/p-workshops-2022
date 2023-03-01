@@ -47,3 +47,8 @@ Previous years' workshop recordings can be found in [this Google Drive Folder](h
 - [Link to Recording](https://www.youtube.com/watch?v=oXvbGY2Wy00)
 - Deep learning
   - Intuition behind neural nets
+ 
+### Special Topics Workshop: Quantum SVMs and Optical Neural Networks
+- [Link to Recording](https://www.youtube.com/watch?v=iUL6i66Rv-s)
+- Non-Classical machine learning techniques
+
